@@ -1,6 +1,12 @@
 * {
     font-family: Verdana, Geneva, Tahoma, sans-serif;
 }
+body {
+    margin: 0px;
+}
+html {
+    margin: 0px;
+}
 p {
     font-size: 15px;
 }
@@ -13,19 +19,20 @@ h1 {
     font-size: 50px;
     color: white;
     background-color: rgb(121, 181, 238);
-    margin: 0px;
+    margin:0px;
+    padding: 10px;
 }
 .colors {
     border: 3px solid black;
-    margin: 10px auto;
+    margin: 10px 10px;
 }
 .fonts {
     border: 3px solid black;
-    margin: 10px auto;
+    margin: 10px 10px;
 }
 .text-styles {
     border: 3px solid black;
-    margin: 10px auto;
+    margin: 10px 10px;
 }
 .main-color {
     background-color: #8b008b;
